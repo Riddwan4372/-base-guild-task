@@ -36,3 +36,34 @@
 - Approve Token ✅
 - Swap Token ✅
 - Add Liquidity ✅
+- ---
+
+## 🌐 Echochain Testnet (Maculatus)
+
+- Network: Maculatus Testnet
+
+### 💸 Send Token
+- Action: Transferred tokens to another wallet  
+- Tx Hash:  
+0x64f96104e6cfdbad397bc14ebaf770c14de87d804f197234f33c5f0ed351cd4d
+
+---
+
+### 🔄 Swap Token
+- Action: Swapped X1T → USDT  
+- Tx Hash:  
+0x7791e22e476ae520a89965e26ffa506d2fdc10b1094612244dff0f4ec7319272
+
+---
+
+### 💧 Add Liquidity
+- Action: Added liquidity to X1T-USDT pool  
+- Tx Hash:  
+0x095f21942b4c23235423ad30e47ff277fe604067538b7bd28f9d201803da64f3
+
+---
+
+## 📌 Summary Update
+
+- Echochain interaction (send, swap, liquidity) ✅
+- LitVM interaction (approve, swap, LP) ✅
