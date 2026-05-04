@@ -1,4 +1,4 @@
-### Day 43 — Onchain Activity (Base + LitVM Testnet)
+### Day 43 — Onchain Activity (Base + LitVM + Ecochain)
 
 **Base Mainnet**
 
@@ -37,9 +37,20 @@
 * Approve LVT Spending
   Tx: 0xdb58186c0211eaa0cec64a2a9dec828a5ad51f863510533ffb02a029f2d9d8e0
 
+**Ecochain Testnet — EcoDex**
+
+* Send X1T
+  Tx: 0x152588585d8aac79885c4e479cfde7ba2a9baf9a4a96677ddf7625f529574a10
+
+* Swap X1T ↔ USDT
+  Tx: 0x00f54ce699ebfd3b790bec2daeb48dac3900e49b8a9ed957b939df7719d7a548
+
+* Add Liquidity X1T–USDT
+  Tx: 0xa1efb9bca3852b0effe8436528282709b1609a302de8396ccc12ffc370a83675
+
 **Notes**
 
-* Ecochain skipped due to site issue
-* LP on LesterLabs failed (likely contract/DEX issue)
-* LitDex interactions completed successfully
-*
+* Ecochain resumed after temporary downtime
+* LitDex interactions successful (LP & swap)
+* LesterLabs LP failed (likely DEX/contract limitation)
+
