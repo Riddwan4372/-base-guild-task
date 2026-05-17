@@ -65,7 +65,26 @@
   Tx: 0xb32f9405c3242a083fdd2930f6d1876e52e37a4230f1e3f4a5b2e681779305de
 
 ---
+## Additional Litdex Activities (Completed after platform recovery)
 
+- Daily check-in on Litdex  
+  Tx: 0x403cfdf83407522f95894981e82df48185d934586de203b5c61a8fee657ad56f
+
+- Claimed USDC reward using LitShard NFT  
+  Tx: 0x04658b7bde62f8bfc9332ef1795edf0eba25740c3a2dd0ecf402ea0f2079edc5
+
+- Deployed token contract on Litdex  
+  Tx: 0x786d9d5b815abe4c49c8e746d75bfc23b33ecec04245af4b7fd7755054cfc8d9
+
+- Sent onchain message via Litdex  
+  Tx: 0xa1fe968820db35e295a017565f780a438c9ada8a031b2dad7acf1183c056a207
+
+- Swapped zkLTC to LDEX  
+  Tx: 0x6350972d854ae2f677a6fae6bbb35ab11809a373f0b22414304037a618be187a
+
+- Completed cross-chain bridge via Litdex Bridge  
+  Bridged zkLTC → WZKLTC (Sepolia)  
+  Tx: 0x8c590b735a76076669d79e6198c09ee32f860886db690f88799589cfcd0c9fb5
 ## EcoDex & Maculatus Testnet Activities
 
 * Sent X1T on Maculatus Testnet
