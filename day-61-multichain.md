@@ -1,0 +1,27 @@
+git commit -m "Day 61: Expanded LitVM, Base & EcoDEX onchain activities
+
+- Sent GZR and BTT tokens on Base mainnet
+- Deployed OTT token on LitDEX
+- Completed LitDEX daily check-in
+- Swapped zkLTC to LDEX on LitDEX
+- Added LP zkLTC-USDT on LitDEX
+- Claimed LitShard NFT rewards (xkLTC/USDC/LDEX)
+- Staked OTCT on LitDEX
+- Claimed DCUSD and DCAT faucet rewards on DrunkenCats
+- Swapped zkLTC to USDC on DrunkenCats
+- Added LP zkLTC-DCUSD on DrunkenCats
+- Swapped zkLTC to aUSDC on Addax Finance
+- Added LP FnUSD-LDEX on Addax Finance
+- Bridged zkLTC to wzkLTC via ETH Sepolia on Multyra
+- Swapped zkLTC to WDEX on Multyra
+- Staked zkLTC on LitStake
+- Swapped zkLTC to AXP on LitiumDEX
+- Added LP wzkLTC-AXP on LitiumDEX
+- Deposited ZKLTC-WZKLC pair on LitiumDEX
+- Completed GM interaction on LitiumDEX
+- Swapped zkLTC to BNB on WolfDEX
+- Added LP zkLTC-BNB on WolfDEX
+- Sent X1T tokens on Maculatus
+- Swapped X1T-USDT on EcoDEX
+- Added LP X1T-USDT on EcoDEX
+- Created token on EcoDEX"
