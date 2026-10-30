@@ -3,7 +3,7 @@
 Catatan harian aktivitas onchain saya untuk task Base Guild dan eksplorasi multichain: deploy smart contract, swap, bridge, NFT, dan interaksi dApp.
 
 **Chain:** Base Mainnet · LitVM Testnet · dan beberapa testnet lain (lihat tiap catatan)
-**Periode:** Day 33 – Day 121
+**Periode:** Day 33 – Day 122
 
 ## Struktur
 
@@ -109,3 +109,4 @@ Catatan Day 12–32 ada di repo [my-first-project](https://github.com/Riddwan437
 | 119 | [Day 119 - Base Guild, X1Ecochain & LitVM Testnet Activities](logs/day-119-multichain.md) |
 | 120 | [Day 120 - Base Guild, X1Ecochain & LitVM Testnet Activities](logs/day-120-multichain.md) |
 | 121 | [Day 121 - Base Guild, X1Ecochain & LitVM Testnet Activities](logs/day-121-multichain.md) |
+| 122 | [Day 122 - Ethernal Cubs & ORB Mint](logs/day-122-multichain.md) |
