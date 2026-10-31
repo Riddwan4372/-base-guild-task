@@ -110,3 +110,4 @@ Catatan Day 12–32 ada di repo [my-first-project](https://github.com/Riddwan437
 | 120 | [Day 120 - Base Guild, X1Ecochain & LitVM Testnet Activities](logs/day-120-multichain.md) |
 | 121 | [Day 121 - Base Guild, X1Ecochain & LitVM Testnet Activities](logs/day-121-multichain.md) |
 | 122 | [Day 122 - Ethernal Cubs & ORB Mint](logs/day-122-multichain.md) |
+| 123 | [Day 123 - GIWA Testnet, LitVM Testnet & Base Activities](logs/day-123-multichain.md) |
