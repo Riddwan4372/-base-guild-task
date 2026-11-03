@@ -113,3 +113,4 @@ Catatan Day 12–32 ada di repo [my-first-project](https://github.com/Riddwan437
 | 123 | [Day 123 - GIWA Testnet, LitVM Testnet & Base Activities](logs/day-123-multichain.md) |
 | 124 | [Day 124 - GIWA Testnet, LitVM Testnet & QMS Testnet Activities](logs/day-124-multichain.md) |
 | 125 | [Day 125 - GIWA Testnet, LitVM Testnet & QMS Testnet Activities](logs/day-125-multichain.md) |
+| 126 | [Day 126 - LitVM Testnet Activities (LitiumDEX & Magnetar)](logs/day-126-multichain.md) |
