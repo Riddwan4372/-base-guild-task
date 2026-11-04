@@ -6,6 +6,7 @@ Today's on-chain activities:
 
 🔹 LitVM Testnet (DrunkenCats)
 - Swap transactions on DrunkenCats
+  Tx: 0xb98cab37cd96849a82f99407acfc6bb40525d699693cf0445edda3c1ef2bcad4
   Tx: 0x5ffa360bb86ace5f07b290140399f4130f82d911d008a6299b1d9e6d2fb3b307
   Tx: 0x9130c15c165eba8f48442a2e7a1e6a4cc2e3f865bb37c3ce4d00ab982f04d45e
   Tx: 0xac50525dfcdbf44918bae371847efbe27795ddcf21ae1a9d95e77eb6ab2428a0
