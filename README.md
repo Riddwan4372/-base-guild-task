@@ -116,3 +116,4 @@ Catatan Day 12–32 ada di repo [my-first-project](https://github.com/Riddwan437
 | 126 | [Day 126 - LitVM Testnet Activities (LitiumDEX & Magnetar)](logs/day-126-multichain.md) |
 | 127 | [Day 127 - LitVM Testnet & GIWA Testnet Activities (DrunkenCats, WolfDEX & Hodlerstation)](logs/day-127-multichain.md) |
 | 128 | [Day 128 - LitVM, GIWA & QMS Testnet Activities (WolfDEX, LitVMSwap, Hodlerstation & QMS)](logs/day-128-multichain.md) |
+| 129 | [Day 129 - QMS, GIWA & LitVM Testnet Activities (Qwap, Hodlerstation & LitVMSwap Launch)](logs/day-129-multichain.md) |
