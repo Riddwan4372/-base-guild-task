@@ -120,3 +120,4 @@ Catatan Day 12–32 ada di repo [my-first-project](https://github.com/Riddwan437
 | 130 | [Day 130 - LitVM, QMS & GIWA Testnet Activities (DrunkenCats, Qwap & Hodlerstation)](logs/day-130-multichain.md) |
 | 131 | [Day 131 - GIWA & LitVM Testnet Activities (Hodlerstation & LitVMSwap)](logs/day-131-multichain.md) |
 | 132 | [Day 132 - GIWA, LitVM & QMS Testnet Activities (Hodlerstation, LitVMPay, Lunaria, LitZap, LitStreams, Qwap & Forks.wiki)](logs/day-132-multichain.md) |
+| 133 | [Day 133 - LitVM Testnet Activities (LitRoute)](logs/day-133-multichain.md) |
