@@ -14,6 +14,7 @@ Today's on-chain activities:
 🔹 LitVM Testnet (LitZap)
 - Gas-free payment from bangiwan.zap (litzap.xyz)
   Tx: 0x52f9e4b79861e63ddb7990d6b352e22af81ae5d4471761e918c110f2c9f8a79f
+  Tx: 0xfdf34e61af9c8fcbf31de14a4297da10034ffa2f993665d46162db115879bab0
 
 🔹 QMS Testnet (Qwap)
 - Swaps and liquidity (LP) on Qwap (testnet.qwap.xyz)
