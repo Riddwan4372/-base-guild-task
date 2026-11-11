@@ -1,4 +1,4 @@
-Day 134 - LitVM & GIWA Testnet Activities (Hodlerstation & LitZap)
+Day 134 - LitVM, GIWA & QMS Testnet Activities (Hodlerstation, LitZap & Qwap)
 
 Date: 11 November 2026
 
@@ -15,5 +15,16 @@ Today's on-chain activities:
 - Gas-free payment from bangiwan.zap (litzap.xyz)
   Tx: 0x52f9e4b79861e63ddb7990d6b352e22af81ae5d4471761e918c110f2c9f8a79f
 
+🔹 QMS Testnet (Qwap)
+- Swaps and liquidity (LP) on Qwap (testnet.qwap.xyz)
+  Tx: 0xbe8db5679f630cfe8df7747405e1b63a26c000a977f66ed6d3203d0aeb30b722
+  Tx: 0x76bcb56411e8933e9e819c45149e453e87c39080a9c6aaa67f8940122cd01eb0
+  Tx: 0x1fffe5bef29eccea88fdf73e3d737600af41911d55da2504d37cbe2e54dc531d
+  Tx: 0xba4cf385c7736ae1efb27c615b869e3c7b98bc356769ee77286c2993de98017a
+  Tx: 0x2b5306020c45813a6d93a33c11129127b023f9867751c65e6a9027360c9504be
+  Tx: 0x7d337168c72b9a6119747a61058a84d8bb957dd15ce0caf176be2027a88311c6
+  Tx: 0xe0575cf92aebfd147664818faecfea1ede8b1a9fd5b227e61ae6b9e4b27653a8
+  Tx: 0x52147ab04d47536c16d3febb2fac0b082fcb901c9e84254eebafd017265b210f
+
 Summary:
-Daily HodlerPoints on GIWA and another gas-free LitZap payment on LitVM. LitMart and ForgePay were also tried today, but their transactions did not go through because the LiteForge RPC rejected them ("publishing transactions not supported by this endpoint"). Documenting every transaction as part of my Web3 learning journey.
+Daily HodlerPoints on GIWA, another gas-free LitZap payment on LitVM, and swaps and LP on Qwap (QMS). LitMart and ForgePay were also tried today, but their transactions did not go through because the LiteForge RPC rejected them ("publishing transactions not supported by this endpoint"). Documenting every transaction as part of my Web3 learning journey.
