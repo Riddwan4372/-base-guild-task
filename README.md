@@ -123,3 +123,4 @@ Catatan Day 12–32 ada di repo [my-first-project](https://github.com/Riddwan437
 | 133 | [Day 133 - LitVM, GIWA & QMS Testnet Activities (Orvex DEX, LitRoute, Hodlerstation & Qwap)](logs/day-133-multichain.md) |
 | 134 | [Day 134 - LitVM, GIWA & QMS Testnet Activities (Hodlerstation, LitZap & Qwap)](logs/day-134-multichain.md) |
 | 135 | [Day 135 - LitVM, GIWA & QMS Testnet Activities (Hodlerstation, Orvex & Qwap)](logs/day-135-multichain.md) |
+| 136 | [Day 136 - LitVM & GIWA Testnet Activities (Hodlerstation, LitVMSwap & CLOB)](logs/day-136-multichain.md) |
