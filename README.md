@@ -3,7 +3,7 @@
 Catatan harian aktivitas onchain saya untuk task Base Guild dan eksplorasi multichain: deploy smart contract, swap, bridge, NFT, dan interaksi dApp.
 
 **Chain:** Base Mainnet · LitVM Testnet · dan beberapa testnet lain (lihat tiap catatan)
-**Periode:** Day 33 – Day 122
+**Periode:** Day 33 – Day 139
 
 ## Struktur
 
@@ -48,14 +48,14 @@ Catatan Day 12–32 ada di repo [my-first-project](https://github.com/Riddwan437
 | 58 | [Day 58 - Multi-Chain DeFi & NFT Activities](logs/day-58-multichain.md) |
 | 59 | [Day 59 - Multi-Protocol DeFi, NFT & Liquidity Activities](logs/day-59-multichain.md) |
 | 60 | [Day 60 - Cross-Chain DeFi, Liquidity & Ecosystem Exploration](logs/day-60-multichain.md) |
-| 61 | [git commit -m "Day 61: Expanded LitVM, Base & EcoDEX onchain activities](logs/day-61-multichain.md) |
+| 61 | [Day 61 - Expanded LitVM, Base & EcoDEX Onchain Activities](logs/day-61-multichain.md) |
 | 62 | [Send BON (base mainet)](logs/day-62-multichain.md) |
-| 63 | [git commit -m "Day 63: Expanded LitVM ecosystem interactions across Multyra, LitDEX, LitiumDEX, ZNS & EcoDEX](logs/day-63-multichain.md) |
+| 63 | [Day 63 - Expanded LitVM Ecosystem Interactions across Multyra, LitDEX, LitiumDEX, ZNS & EcoDEX](logs/day-63-multichain.md) |
 | 64 | [Day 64 - Massive zkLTC & LitVM Ecosystem Activity](logs/day-64-multichain.md) |
-| 65 | [Berikut template commit GitHub untuk **Day 65**:](logs/day-65-multichain.md) |
+| 65 | [Day 65 - Multi-Protocol Onchain Activities](logs/day-65-multichain.md) |
 | 66 | [Day 66 - Multi-Protocol DeFi & Cross-Chain Activity](logs/day-66-multichain.md) |
 | 67 | [Day 67 - Cross-Chain DeFi & Ecosystem Expansion](logs/day-67-multichain.md) |
-| 68 | [Berikut template commit GitHub untuk Day 68:](logs/day-68-multichain.md) |
+| 68 | [Day 68 — LitVM & Base Ecosystem Exploration](logs/day-68-multichain.md) |
 | 69 | [Day 69 Onchain Activities](logs/day-69-multichain.md) |
 | 70 | [Day 70 - Multi-Chain DeFi, NFT, and Onchain Activity](logs/day-70-multichain.md) |
 | 71 | [Day 71 - Cross-Chain Bridging, DeFi Operations, NFT Deployment, and Ecosystem Engagement](logs/day-71-multichain.md) |
@@ -126,3 +126,4 @@ Catatan Day 12–32 ada di repo [my-first-project](https://github.com/Riddwan437
 | 136 | [Day 136 - LitVM & GIWA Testnet Activities (Hodlerstation, LitVMSwap & CLOB)](logs/day-136-multichain.md) |
 | 137 | [Day 137 - LitVM, GIWA & QMS Testnet Activities (Hodlerstation, LitVMSwap & Qwap)](logs/day-137-multichain.md) |
 | 138 | [Day 138 - LitVM, GIWA & QMS Testnet Activities (Hodlerstation, LitiumDEX, WolfDEX & Qwap)](logs/day-138-multichain.md) |
+| 139 | [Day 139 - LitVM, GIWA & QMS Testnet Activities (LitDex, LitiumDEX, Qwap & Hodlerstation)](logs/day-139-multichain.md) |
