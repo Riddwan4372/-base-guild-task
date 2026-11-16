@@ -1,5 +1,3 @@
-Berikut template commit GitHub untuk Day 68:
-
 ## Day 68 — LitVM & Base Ecosystem Exploration
 
 ### Base Mainnet Activities
