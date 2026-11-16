@@ -1,4 +1,4 @@
-git commit -m "Day 63: Expanded LitVM ecosystem interactions across Multyra, LitDEX, LitiumDEX, ZNS & EcoDEX
+# Day 63 - Expanded LitVM Ecosystem Interactions across Multyra, LitDEX, LitiumDEX, ZNS & EcoDEX
 
 - Sent GZR and BNV tokens on Base mainnet
 - Completed LitDEX daily check-in
