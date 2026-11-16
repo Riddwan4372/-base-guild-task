@@ -1,4 +1,4 @@
-git commit -m "Day 61: Expanded LitVM, Base & EcoDEX onchain activities
+# Day 61 - Expanded LitVM, Base & EcoDEX Onchain Activities
 
 - Sent GZR and BTT tokens on Base mainnet
 - Deployed OTT token on LitDEX
