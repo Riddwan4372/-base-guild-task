@@ -1,5 +1,3 @@
-Berikut template commit GitHub untuk **Day 65**:
-
 # Day 65 - Multi-Protocol Onchain Activities
 
 ## Base Mainnet Activities
