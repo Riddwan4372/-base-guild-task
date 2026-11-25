@@ -135,5 +135,4 @@ Catatan Day 12–32 ada di repo [my-first-project](https://github.com/Riddwan437
 | 145 | [Day 145 - LitVM, GIWA & QMS Testnet Activities (Qwap, WolfDEX, LitVM Swap & Hodlerstation)](logs/day-145-multichain.md) |
 | 146 | [Day 146 - LitVM, GIWA & QMS Testnet Activities (Qwap, LitVM Swap & Hodlerstation)](logs/day-146-multichain.md) |
 | 147 | [Day 147 - LitVM, GIWA & QMS Testnet Activities (Qwap, LitiumDEX, LitVM Swap & Hodlerstation)](logs/day-147-multichain.md) |
-
 | 148 | [Day 148 - LitVM, GIWA & QMS Testnet Activities (Qwap, LitVM Swap & Hodlerstation)](logs/day-148-multichain.md) |
