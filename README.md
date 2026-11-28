@@ -3,7 +3,7 @@
 Catatan harian aktivitas onchain saya untuk task Base Guild dan eksplorasi multichain: deploy smart contract, swap, bridge, NFT, dan interaksi dApp.
 
 **Chain:** Base Mainnet · LitVM Testnet · dan beberapa testnet lain (lihat tiap catatan)
-**Periode:** Day 33 – Day 150
+**Periode:** Day 33 – Day 151
 
 ## Struktur
 
@@ -138,3 +138,4 @@ Catatan Day 12–32 ada di repo [my-first-project](https://github.com/Riddwan437
 | 148 | [Day 148 - LitVM, GIWA & QMS Testnet Activities (Qwap, LitVM Swap & Hodlerstation)](logs/day-148-multichain.md) |
 | 149 | [Day 149 - LitVM, GIWA & QMS Testnet Activities (Qwap, LitiumDEX & Hodlerstation)](logs/day-149-multichain.md) |
 | 150 | [Day 150 - LitVM, GIWA & QMS Testnet Activities (Qwap, LitiumDEX & Hodlerstation)](logs/day-150-multichain.md) |
+| 151 | [Day 151 - LitVM, GIWA & QMS Testnet Activities (Qwap, LitVM Swap & Hodlerstation)](logs/day-151-multichain.md) |
